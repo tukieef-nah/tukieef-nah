@@ -3,15 +3,15 @@
 </br> Majoring in Software Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### Conect wite me
+### 🐬 Connect wite me 🤙
 <code>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white) <a href="https://www.facebook.com/tukieefnah">Thanh Kieu</a></code>
 <code>![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white) <a href="https://www.instagram.com/tukieef_nah">Thanh Kieu</a></code>
 
 <code>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-squar&logo=gmail&logoColor=white) thanhkieu.tttk1982003@gmail.com</code>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### Languages and Tools
+### Languages
 <code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)</code>
 <code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)</code>
 <code>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)</code>
@@ -21,14 +21,12 @@
 
 <code>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)</code>
 <code>![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)</code>
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)</code>
+<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code>
 
-
-#### Frontend
 <code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code>
 <code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code>
 <code>![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)</code>
-<code>![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)</code>
-<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code>
 
 
 #### Database
