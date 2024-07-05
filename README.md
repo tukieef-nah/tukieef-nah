@@ -1,6 +1,8 @@
 # 🐳 Hi, I'm Tran Thi Thanh Kieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<p><em> Bachelor of Information Technology at <a href="http://www.unb.br"> Quy Nhon University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br> Majoring in Software Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+### 🏫 Education 👩‍🎓
+<p>👉<em> Bachelor of Information Technology at <a href="http://www.unb.br"> Quy Nhon University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</br>👉 Majoring in Software Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### 🐬 Connect wite me 🤙
@@ -9,9 +11,9 @@
 
 <code>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-squar&logo=gmail&logoColor=white) thanhkieu.tttk1982003@gmail.com</code>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### Languages
+#### Languages
 <code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)</code>
 <code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)</code>
 <code>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)</code>
