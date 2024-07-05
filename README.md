@@ -1,4 +1,4 @@
-# 🐳 Hi, I'm Tran Thi Thanh Kieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# 🐳 Hi, I'm Thanh Kieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ### 🏫 Education 👩‍🎓
 <p>👉<em> Bachelor of Information Technology at <a href="http://www.unb.br"> Quy Nhon University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
