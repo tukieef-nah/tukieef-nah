@@ -31,13 +31,13 @@
 <code>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)</code>
 <code>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)</code>
 <code>![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)</code>
-<code>![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)</code>
-<code>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)</code>
-<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code>
 
 <code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code>
 <code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code>
 <code>![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)</code>
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)</code>
+<code>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)</code>
+<code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code>
 
 
 #### 👉 Database
