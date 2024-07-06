@@ -57,15 +57,13 @@
 <code>![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)</code>
 
 
-##🔥 GitHub Stats 🔥
-<br>
-<div align=center>
-  <a href="#" title="tukieef-nah">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tukieef-nah&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Trungquandev">
+### 🔥 GitHub Stats 🔥
+<a href="#" title="tukieef-nah">
+  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tukieef-nah&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</a>
+  <!--<a href="#" title="tukieef-nah">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=tukieef-nah&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+  </a> -->
 
-⭐️ From [Thanh Kieu](https://github.com/tukieef-nah) 💙
+
+#### ⭐️ From [Thanh Kieu](https://github.com/tukieef-nah) 💙
