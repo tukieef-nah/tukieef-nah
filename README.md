@@ -1,17 +1,26 @@
 # 🐳 Hello there, I'm Thanh Kieu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-### 🏫 Education 👩‍🎓
+### 🏫 Education 📖
 <p>👉<em> Bachelor of Information Technology at <a href="http://www.unb.br"> Quy Nhon University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>👉 Majoring in Software Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### 🐬 Connect wite me 🤙
-<code>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white) <a href="https://www.facebook.com/tukieefnah">Thanh Kieu</a></code>
+<!--<code>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white) <a href="https://www.facebook.com/tukieefnah">Thanh Kieu</a></code>
 <code>![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white) <a href="https://www.instagram.com/tukieef_nah">Thanh Kieu</a></code>
 
-<code>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-squar&logo=gmail&logoColor=white) thanhkieu.tttk1982003@gmail.com</code>
+<code>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-squar&logo=gmail&logoColor=white) thanhkieu.tttk1982003@gmail.com</code>-->
+<a href="https://www.facebook.com/tukieefnah" target="blank">
+  <img src="https://img.icons8.com/bubbles/70/000000/facebook-new.png" alt="thanhkieu-facebook" />
+</a>
+<a href="https://www.instagram.com/tukieef_nah" target="blank">
+  <img src="https://img.icons8.com/bubbles/70/000000/instagram.png" alt="thanhkieu-instagram" />
+</a>
+<a href="mailto:thanhkieu.tttk1982003@gmail.com" target="top">
+  <img src="https://img.icons8.com/bubbles/70/000000/apple-mail.png" alt="thanhkieu-email" />
+</a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools 🛠 
 
 #### 👉 Languages
 <code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)</code>
@@ -24,6 +33,7 @@
 <code>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)</code>
 <code>![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)</code>
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)</code>
+<code>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)</code>
 <code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code>
 
 <code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code>
